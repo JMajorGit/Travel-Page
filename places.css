@@ -1,0 +1,30 @@
+header{
+    position: static;
+    background-color: #454545;
+}
+
+main li img{
+    width: 300px;
+    height:300px;
+}
+
+body{
+    background-color: #454545;
+}
+main ul{
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+.item-content{
+    padding: 24px;
+    border-radius: 10px;
+    justify-content: center;
+}
+main li{
+    display: flex;
+
+    background-color: #ffffff;
+
+}
